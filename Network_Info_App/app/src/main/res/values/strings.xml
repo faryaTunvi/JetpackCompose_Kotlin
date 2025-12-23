@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Network Info App</string>
+    <string name="accessibility_service_description">This Accessibility Service helps users interact with the app more easily by providing custom accessibility features.</string>
+</resources>
